@@ -28,7 +28,7 @@
 
 1. Baixe ou clone este repositório
 2. Compacte a pasta em um arquivo `.zip`
-3. No QGIS, acesse **Complementos > Gerenciar e Instalar Complementos > Instalar a partir de um arquivo ZIP**
+3. No QGIS, acesse **Complementos > Gerir e Instalar Complementos > Instalar a partir de um arquivo ZIP**
 4. Selecione o arquivo `.zip` e instale
 
 ---
