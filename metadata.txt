@@ -1,0 +1,8 @@
+[general]
+name=PseudoHyperlink
+description=Adiciona links clicáveis nas dicas HTML para feições
+version=1.0
+qgisMinimumVersion=3.16
+author=GeoSmart
+email=geral@geosmart.pt
+icon=icon.png

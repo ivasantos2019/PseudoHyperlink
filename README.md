@@ -28,17 +28,15 @@
 
 1. Baixe ou clone este repositório
 2. Compacte a pasta em um arquivo `.zip`
-3. No QGIS, acesse **Complementos > Gerir e Instalar Complementos > Instalar a partir de um arquivo ZIP**
+3. No QGIS, acesse **Complementos > Gerenciar e Instalar Complementos > Instalar a partir de um arquivo ZIP**
 4. Selecione o arquivo `.zip` e instale
 
 ---
 
 ## 💡 Exemplo de uso
 
-Adicione uma nova coluna na tabela de atributos em uma camada :
+Adicione a seguinte dica HTML em uma camada de pontos:
 
-| id | nome | link                                         |
-| -- | ---- | -------------------------------------------- |
-| 1  | A    | [https://www.qgis.org](https://www.qgis.org) |
-| 2  | B    | /home/usuario/docs/manual.pdf                |
+```html
+<a href="qgis://zoom?id=10">Clique para fazer zoom</a>
 
