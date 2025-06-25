@@ -35,7 +35,10 @@
 
 ## 💡 Exemplo de uso
 
-Adicione a seguinte dica HTML em uma camada de pontos:
+Adicione uma nova coluna na tabela de atributos em uma camada :
 
-```html
-<a href="qgis://zoom?id=10">Clique para fazer zoom</a>
+| id | nome | link                                         |
+| -- | ---- | -------------------------------------------- |
+| 1  | A    | [https://www.qgis.org](https://www.qgis.org) |
+| 2  | B    | /home/usuario/docs/manual.pdf                |
+
